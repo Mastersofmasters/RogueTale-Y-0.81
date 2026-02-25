@@ -561,16 +561,9 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,ADD,EndX3,$EndX3,320,,,,,
 0,ADD,EndY3,$EndY3,306,,,,,
 0,ADD,Ang3,$Ang3,180,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-0,ADD,gt,$gt,$gin,,,,,
-0,JMPNL,217,$gin,0.15,,,,,
-0,ADD,gin,$gin,0.15,,,,,
-0.06666,JMPL,162,$gt,40,,,,,
 
 2,endattack,,,,,,,,
+
 
 
 
